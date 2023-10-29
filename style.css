@@ -166,3 +166,13 @@
       filter: hue-rotate(0deg);
     }
   }
+
+  @media only screen and (max-width:500px){
+    #svgWrap_1,#svgWrap_2{
+        width: 90% !important;
+        margin-top: -100px;
+    }
+    #text{
+        margin-top: 10px;
+    }
+  }
