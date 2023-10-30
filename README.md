@@ -50,15 +50,17 @@ We value your feedback and suggestions to make this project even better. If you 
 ---
 
 #Hashtags
-- #404ErrorPage
-- #WebDesign
-- #CSSAnimations
-- #WebDevelopment
-- #HTML
-- #CSS
-- #JavaScript
-- #ResponsiveDesign
-- #OpenSource
-- #UIUX
-- #404Art
-- #GitHubProjects
+#404ErrorPage
+#WebDesign
+#CSSAnimations
+#WebDevelopment
+#HTML
+#CSS
+#JavaScript
+#ResponsiveDesign
+#OpenSource
+#UIUX
+#404Art
+#GitHubProjects
+#swamithedev
+#swaminathanselvam
