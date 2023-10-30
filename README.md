@@ -21,7 +21,7 @@ Welcome to the 404 Error Page project, where we've turned a simple error into an
 ## Screenshots
 
 Here's a glimpse of the captivating 404 Error Page:
-![404 Error Page](insert_screenshot_url_here)
+![404 Error Page]()
 
 ## How to Contribute
 
